@@ -1,0 +1,35 @@
+.colDeLogin {
+    padding-top: 50%;
+}
+
+.form-control {
+    display: inline;
+    height: 50%;
+}
+
+.colInput1 {
+    box-sizing: border-box;
+    padding: 10px 0px 10px 15px !important;
+}
+
+.colInput2 {
+    box-sizing: border-box;
+    padding: 10px 15px 10px 0px !important;
+}
+
+.colInputRegistro1 {
+    box-sizing: border-box;
+    padding: 10px 0px 10px 15px !important;
+    padding-bottom: 0px !important;
+}
+
+.colInputRegistro2 {
+    box-sizing: border-box;
+    padding: 10px 15px 10px 0px !important;
+    padding-bottom: 0px !important;
+}
+#LogoLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
